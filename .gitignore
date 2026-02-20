@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+node_modules/
+vault/.obsidian/workspace*
+vault/.obsidian/workspace.json
+credentials/

@@ -1,0 +1,150 @@
+2026-02-16 21:33:36,633 - INFO - ============================================================
+2026-02-16 21:33:36,634 - INFO - Personal AI Employee - File Watcher Starting
+2026-02-16 21:33:36,635 - INFO - ============================================================
+2026-02-16 21:33:36,635 - INFO - Watching directory: C:\Users\USER\Desktop\hackathon-0\vault\Needs_Action
+2026-02-16 21:33:36,636 - INFO - MarkdownFileHandler initialized
+2026-02-16 21:33:36,638 - INFO - File watcher started successfully
+2026-02-16 21:33:36,638 - INFO - Monitoring: C:\Users\USER\Desktop\hackathon-0\vault\Needs_Action
+2026-02-16 21:33:36,638 - INFO - Press Ctrl+C to stop
+2026-02-16 21:34:27,402 - INFO - NEW TASK DETECTED: TEST_TASK_001.md
+2026-02-16 21:34:27,403 - INFO -   Path: C:\Users\USER\Desktop\hackathon-0\vault\Needs_Action\TEST_TASK_001.md
+2026-02-16 21:34:27,403 - INFO -   Time: 2026-02-16T21:34:27.402445
+2026-02-16 21:34:27,404 - INFO - Ignored low-priority file: TEST_TASK_001.md
+2026-02-16 21:38:04,722 - INFO - Keyboard interrupt received. Stopping watcher...
+2026-02-16 21:38:04,726 - INFO - File watcher stopped
+2026-02-16 21:38:04,727 - INFO - ============================================================
+2026-02-16 21:38:23,181 - INFO - ============================================================
+2026-02-16 21:38:23,181 - INFO - Personal AI Employee - File Watcher Starting
+2026-02-16 21:38:23,182 - INFO - ============================================================
+2026-02-16 21:38:23,182 - INFO - Watching directory: C:\Users\USER\Desktop\hackathon-0\vault\Needs_Action
+2026-02-16 21:38:23,183 - INFO - MarkdownFileHandler initialized
+2026-02-16 21:38:23,185 - INFO - File watcher started successfully
+2026-02-16 21:38:23,185 - INFO - Monitoring: C:\Users\USER\Desktop\hackathon-0\vault\Needs_Action
+2026-02-16 21:38:23,186 - INFO - Press Ctrl+C to stop
+2026-02-16 21:39:42,344 - INFO - NEW TASK DETECTED: TASK_TEST_004.md
+2026-02-16 21:39:42,345 - INFO -   Path: C:\Users\USER\Desktop\hackathon-0\vault\Needs_Action\TASK_TEST_004.md
+2026-02-16 21:39:42,345 - INFO -   Time: 2026-02-16T21:39:42.344662
+2026-02-16 21:39:42,346 - INFO - Ignored low-priority file: TASK_TEST_004.md
+2026-02-16 21:42:22,818 - INFO - Keyboard interrupt received. Stopping watcher...
+2026-02-16 21:42:22,825 - INFO - File watcher stopped
+2026-02-16 21:42:22,826 - INFO - ============================================================
+2026-02-16 21:43:08,601 - INFO - ============================================================
+2026-02-16 21:43:08,601 - INFO - Personal AI Employee - File Watcher Starting
+2026-02-16 21:43:08,601 - INFO - ============================================================
+2026-02-16 21:43:08,602 - INFO - Watching directory: C:\Users\USER\Desktop\hackathon-0\vault\Needs_Action
+2026-02-16 21:43:08,602 - INFO - MarkdownFileHandler initialized
+2026-02-16 21:43:08,604 - INFO - File watcher started successfully
+2026-02-16 21:43:08,604 - INFO - Monitoring: C:\Users\USER\Desktop\hackathon-0\vault\Needs_Action
+2026-02-16 21:43:08,604 - INFO - Press Ctrl+C to stop
+2026-02-16 21:43:14,833 - INFO - NEW TASK DETECTED: TASK_TEST_004.md
+2026-02-16 21:43:14,837 - INFO -   Path: C:\Users\USER\Desktop\hackathon-0\vault\Needs_Action\TASK_TEST_004.md
+2026-02-16 21:43:14,838 - INFO -   Time: 2026-02-16T21:43:14.833785
+2026-02-16 21:50:01,917 - INFO - Keyboard interrupt received. Stopping watcher...
+2026-02-16 21:50:01,922 - INFO - File watcher stopped
+2026-02-16 21:50:01,923 - INFO - ============================================================
+2026-02-16 21:50:31,254 - INFO - ============================================================
+2026-02-16 21:50:31,255 - INFO - Personal AI Employee - File Watcher Starting
+2026-02-16 21:50:31,256 - INFO - ============================================================
+2026-02-16 21:50:31,256 - INFO - Watching directory: C:\Users\USER\Desktop\hackathon-0\vault\Needs_Action
+2026-02-16 21:50:31,257 - INFO - MarkdownFileHandler initialized
+2026-02-16 21:50:31,258 - INFO - File watcher started successfully
+2026-02-16 21:50:31,260 - INFO - Monitoring: C:\Users\USER\Desktop\hackathon-0\vault\Needs_Action
+2026-02-16 21:50:31,260 - INFO - Press Ctrl+C to stop
+2026-02-16 21:50:44,168 - INFO - NEW TASK DETECTED: TEST_TASK_002.md
+2026-02-16 21:50:44,169 - INFO -   Path: C:\Users\USER\Desktop\hackathon-0\vault\Needs_Action\TEST_TASK_002.md
+2026-02-16 21:50:44,169 - INFO -   Time: 2026-02-16T21:50:44.168492
+2026-02-16 21:50:44,173 - INFO - High priority task -> Would trigger Claude: You are my AI Employee.
+New task: C:\Users\USER\Desktop\hackathon-0\vault\Needs_Action\TEST_TASK_002.md
+Read fully.
+Follow Company_Handbook.md.
+If needed, plan in Plans/.
+If sensitive, create Pending_Approval/ file.
+When complete: move to Done/.
+2026-02-16 22:12:27,403 - INFO - NEW TASK DETECTED: TEST_TASK_006.md
+2026-02-16 22:12:27,404 - INFO -   Path: C:\Users\USER\Desktop\hackathon-0\vault\Needs_Action\TEST_TASK_006.md
+2026-02-16 22:12:27,404 - INFO -   Time: 2026-02-16T22:12:27.403708
+2026-02-16 22:12:27,411 - INFO - High priority task -> Would trigger Claude: You are my AI Employee.
+New task: C:\Users\USER\Desktop\hackathon-0\vault\Needs_Action\TEST_TASK_006.md
+Read fully.
+Follow Company_Handbook.md.
+If needed, plan in Plans/.
+If sensitive, create Pending_Approval/ file.
+When complete: move to Done/.
+2026-02-16 22:12:53,364 - INFO - Keyboard interrupt received. Stopping watcher...
+2026-02-16 22:12:53,368 - INFO - File watcher stopped
+2026-02-16 22:12:53,369 - INFO - ============================================================
+2026-02-16 22:14:03,490 - INFO - ============================================================
+2026-02-16 22:14:03,491 - INFO - Personal AI Employee - File Watcher Starting
+2026-02-16 22:14:03,491 - INFO - ============================================================
+2026-02-16 22:14:03,492 - INFO - Watching directory: C:\Users\USER\Desktop\hackathon-0\vault\Needs_Action
+2026-02-16 22:14:03,492 - INFO - MarkdownFileHandler initialized
+2026-02-16 22:14:03,495 - INFO - File watcher started successfully
+2026-02-16 22:14:03,495 - INFO - Monitoring: C:\Users\USER\Desktop\hackathon-0\vault\Needs_Action
+2026-02-16 22:14:03,495 - INFO - Press Ctrl+C to stop
+2026-02-16 22:15:23,120 - INFO - NEW TASK DETECTED: TEST_TASK_007.md
+2026-02-16 22:15:23,121 - INFO -   Path: C:\Users\USER\Desktop\hackathon-0\vault\Needs_Action\TEST_TASK_007.md
+2026-02-16 22:15:23,121 - INFO -   Time: 2026-02-16T22:15:23.120808
+2026-02-16 22:16:19,268 - INFO - ============================================================
+2026-02-16 22:16:19,268 - INFO - Personal AI Employee - File Watcher Starting
+2026-02-16 22:16:19,269 - INFO - ============================================================
+2026-02-16 22:16:19,269 - INFO - Watching directory: C:\Users\USER\Desktop\hackathon-0\vault\Needs_Action
+2026-02-16 22:16:19,269 - INFO - MarkdownFileHandler initialized
+2026-02-16 22:16:19,276 - INFO - File watcher started successfully
+2026-02-16 22:16:19,276 - INFO - Monitoring: C:\Users\USER\Desktop\hackathon-0\vault\Needs_Action
+2026-02-16 22:16:19,276 - INFO - Press Ctrl+C to stop
+2026-02-16 22:16:43,307 - INFO - File deleted: TEST_TASK_007.md
+2026-02-16 22:16:44,433 - INFO - NEW TASK DETECTED: TEST_TASK_007.md
+2026-02-16 22:16:44,434 - INFO -   Path: C:\Users\USER\Desktop\hackathon-0\vault\Needs_Action\TEST_TASK_007.md
+2026-02-16 22:16:44,434 - INFO -   Time: 2026-02-16T22:16:44.433419
+2026-02-16 22:16:44,435 - INFO - High priority task -> Triggering Claude CLI...
+2026-02-16 22:16:44,484 - ERROR - Failed to call Claude: [WinError 2] The system cannot find the file specified
+2026-02-16 22:27:23,894 - INFO - File deleted: TEST_TASK_007.md
+2026-02-16 22:27:27,344 - INFO - ============================================================
+2026-02-16 22:27:27,345 - INFO - Personal AI Employee - File Watcher Starting
+2026-02-16 22:27:27,345 - INFO - ============================================================
+2026-02-16 22:27:27,346 - INFO - Watching directory: C:\Users\USER\Desktop\hackathon-0\vault\Needs_Action
+2026-02-16 22:27:27,347 - INFO - MarkdownFileHandler initialized
+2026-02-16 22:27:27,349 - INFO - File watcher started successfully
+2026-02-16 22:27:27,349 - INFO - Monitoring: C:\Users\USER\Desktop\hackathon-0\vault\Needs_Action
+2026-02-16 22:27:27,350 - INFO - Press Ctrl+C to stop
+2026-02-16 22:27:37,234 - INFO - NEW TASK DETECTED: TEST_TASK_007.md
+2026-02-16 22:27:37,235 - INFO - NEW TASK DETECTED: TEST_TASK_007.md
+2026-02-16 22:27:37,235 - INFO -   Path: C:\Users\USER\Desktop\hackathon-0\vault\Needs_Action\TEST_TASK_007.md
+2026-02-16 22:27:37,235 - INFO -   Time: 2026-02-16T22:27:37.235114
+2026-02-16 22:27:37,236 - INFO - High priority task -> Triggering Claude CLI...
+2026-02-16 22:27:37,242 - INFO -   Path: C:\Users\USER\Desktop\hackathon-0\vault\Needs_Action\TEST_TASK_007.md
+2026-02-16 22:27:37,242 - INFO -   Time: 2026-02-16T22:27:37.234939
+2026-02-16 22:27:37,246 - INFO - High priority task -> Would trigger Claude with prompt: You are my AI Employee.
+New task: C:\Users\USER\Desktop\hackathon-0\vault\Needs_Action\TEST_TASK_007.md
+Read fully.
+Follow Company_Handbook.md.
+If needed, plan in Plans/.
+If sensitive, create Pending_Approval/ file.
+When complete: move to Done/.
+2026-02-16 22:27:37,277 - ERROR - Failed to call Claude: [WinError 2] The system cannot find the file specified
+2026-02-17 21:05:58,240 - INFO - Keyboard interrupt received. Stopping watcher...
+2026-02-17 21:05:58,245 - INFO - File watcher stopped
+2026-02-17 21:05:58,245 - INFO - ============================================================
+2026-02-18 14:34:29,833 - INFO - ============================================================
+2026-02-18 14:34:29,834 - INFO - Personal AI Employee - File Watcher Starting
+2026-02-18 14:34:29,835 - INFO - ============================================================
+2026-02-18 14:34:29,835 - INFO - Watching directory: C:\Users\USER\Desktop\hackathon-0\vault\Needs_Action
+2026-02-18 14:34:29,835 - INFO - MarkdownFileHandler initialized
+2026-02-18 14:34:29,838 - INFO - File watcher started successfully
+2026-02-18 14:34:29,838 - INFO - Monitoring: C:\Users\USER\Desktop\hackathon-0\vault\Needs_Action
+2026-02-18 14:34:29,838 - INFO - Press Ctrl+C to stop
+2026-02-18 14:35:46,747 - INFO - NEW TASK DETECTED: TEST_SILVER_001.md
+2026-02-18 14:35:46,760 - INFO -   Path: C:\Users\USER\Desktop\hackathon-0\vault\Needs_Action\TEST_SILVER_001.md
+2026-02-18 14:35:46,760 - INFO -   Time: 2026-02-18T14:35:46.747680
+2026-02-18 14:35:46,764 - INFO - Task task_20260218_143546 appended to queue
+2026-02-18 14:35:46,828 - INFO - High priority task task_20260218_143546 -> Added to queue with prompt: You are my AI Employee.
+New task: C:\Users\USER\Desktop\hackathon-0\vault\Needs_Action\TEST_SILVER_001.md
+Read fully.
+Follow Company_Handbook.md.
+If needed, plan in Plans/.
+If sensitive, create Pending_Approval/ file.
+When complete: move to Done/.
+2026-02-18 14:51:49,837 - INFO - File deleted: TEST_SILVER_001.md
+2026-02-18 14:55:55,635 - INFO - Keyboard interrupt received. Stopping watcher...
+2026-02-18 14:55:55,642 - INFO - File watcher stopped
+2026-02-18 14:55:55,643 - INFO - ============================================================

@@ -1,0 +1,14 @@
+{
+  "name": "email-mcp-server",
+  "version": "1.0.0",
+  "description": "MCP server for Gmail email operations using OAuth2",
+  "main": "email-mcp.js",
+  "scripts": {
+    "start": "node email-mcp.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "googleapis": "^128.0.0",
+    "nodemailer": "^8.0.1"
+  }
+}
