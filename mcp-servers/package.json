@@ -4,11 +4,19 @@
   "description": "MCP server for Gmail email operations using OAuth2",
   "main": "email-mcp.js",
   "scripts": {
-    "start": "node email-mcp.js"
+    "start": "node email-mcp.js",
+    "start:email": "node email-mcp.js",
+    "start:odoo": "node odoo-mcp.js",
+    "start:social": "node social-mcp.js",
+    "start:all": "node start-all.js"
   },
   "dependencies": {
+    "axios": "^1.13.5",
+    "axios-cookiejar-support": "^6.0.5",
+    "dotenv": "^16.6.1",
     "express": "^4.18.2",
     "googleapis": "^128.0.0",
-    "nodemailer": "^8.0.1"
+    "nodemailer": "^8.0.1",
+    "tough-cookie": "^6.0.0"
   }
 }

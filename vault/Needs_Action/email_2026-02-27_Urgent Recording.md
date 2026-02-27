@@ -1,21 +1,21 @@
 ---
 type: email
 from: Hammad Hafeez <iamhammad224@gmail.com>
-subject: Urgent Based
-received: 2026-02-20T00:57:49.106404
+subject: Urgent Recording
+received: 2026-02-27T23:33:00.166084
 priority: high
 status: pending
 ---
 
-# Email: Urgent Based
+# Email: Urgent Recording
 
 **From:** Hammad Hafeez <iamhammad224@gmail.com>
-**Received:** Fri, 20 Feb 2026 00:37:27 +0500
+**Received:** Fri, 27 Feb 2026 23:32:20 +0500
 **Priority:** high
 
 ## Email Content
 
-idhwijsds
+I am working on it
 
 ## Suggested Actions
 

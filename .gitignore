@@ -5,3 +5,8 @@ node_modules/
 vault/.obsidian/workspace*
 vault/.obsidian/workspace.json
 credentials/
+logs/
+Gold.md
+ODOO_SETUP.md
+SUMMARY.md
+SILVER.md
